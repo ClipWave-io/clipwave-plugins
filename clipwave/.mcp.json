@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clipwave": {
+      "type": "http",
+      "url": "https://clipwave.io/api/mcp"
+    }
+  }
+}

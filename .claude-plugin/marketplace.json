@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "clipwave",
+  "owner": {
+    "name": "Clipwave",
+    "url": "https://clipwave.io"
+  },
+  "metadata": {
+    "description": "AI video generation and editing for Claude, via the Clipwave MCP server.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "clipwave",
+      "source": "./clipwave",
+      "description": "Generate video and images, then cut them together on a real multi-track timeline — Claude drives the whole edit and exports an MP4.",
+      "category": "media",
+      "keywords": ["video", "video-editing", "image-generation", "mcp", "media", "seedance", "timeline"],
+      "homepage": "https://clipwave.io/mcp",
+      "license": "MIT"
+    }
+  ]
+}
