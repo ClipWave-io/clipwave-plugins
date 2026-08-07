@@ -9,7 +9,7 @@
     "url": "https://clipwave.io"
   },
   "homepage": "https://clipwave.io/mcp",
-  "repository": "https://github.com/clipwave/clipwave-plugins",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
   "license": "MIT",
   "keywords": ["video", "video-editing", "image-generation", "mcp", "timeline", "captions"]
 }

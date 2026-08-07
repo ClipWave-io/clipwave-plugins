@@ -8,7 +8,7 @@ projects, a shared asset library, per-video timelines with video/voice/sfx/music
 tracks, trims, transitions, subtitles, and a real export.
 
 ```
-/plugin marketplace add clipwave/clipwave-plugins
+/plugin marketplace add ClipWave-io/clipwave-plugins
 /plugin install clipwave@clipwave
 ```
 
