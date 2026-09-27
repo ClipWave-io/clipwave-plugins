@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "logo-maker",
+  "displayName": "Logo Maker AI & Designer",
+  "version": "1.0.0",
+  "description": "Design logo concepts from a brand brief in an interactive panel, then render up to four PNG concepts in your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#logo-maker",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "logo",
+    "logo-design",
+    "branding",
+    "design",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#logo-maker"
+}

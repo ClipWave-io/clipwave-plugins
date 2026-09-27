@@ -16,6 +16,18 @@ Then run `/mcp`, pick **clipwave**, and authenticate. That is the whole setup â€
 the server speaks OAuth 2.0 with dynamic client registration, so there is no key
 to copy or config file to hand-edit.
 
+## Focused apps
+
+Three single-purpose plugins from ManyMotions (the platform formerly known as
+Clipwave), each connected to its own hosted MCP server with an interactive panel
+in Claude:
+
+| Plugin | What it does | Install |
+|---|---|---|
+| [Logo Maker AI & Designer](logo-maker) | Logo concepts from a brand brief | `/plugin install logo-maker@clipwave` |
+| [Clipwave Video & Image Maker](video-image-maker) | AI images and videos from a text prompt | `/plugin install clipwave-video-image-maker@clipwave` |
+| [UGC Video Ads Maker AI](ugc-video-ads) | Short UGC-style video ads from a product brief | `/plugin install ugc-video-ads@clipwave` |
+
 ## What you get
 
 | | |

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ugc-video-ads": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/ugc/mcp"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ugc-video-ads",
+  "displayName": "UGC Video Ads Maker AI",
+  "version": "1.0.0",
+  "description": "Turn a product brief into a short UGC-style video ad with an AI presenter and voice, produced in your ManyMotions account and returned as an MP4.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ugc-video-ads",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "video-ads",
+    "ugc",
+    "marketing",
+    "ai-video",
+    "tiktok",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#ugc-video-ads"
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "clipwave-video-image-maker",
+  "displayName": "Clipwave Video & Image Maker",
+  "version": "1.0.0",
+  "description": "Create AI images and videos from a text prompt: review model, ratio, resolution and duration in a panel, then render in your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#video-image-maker",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "video-generation",
+    "image-generation",
+    "ai-video",
+    "text-to-video",
+    "text-to-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#video-image-maker"
+}

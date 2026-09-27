@@ -18,6 +18,33 @@
       "keywords": ["video", "video-editing", "image-generation", "mcp", "media", "seedance", "timeline"],
       "homepage": "https://clipwave.io/mcp",
       "license": "MIT"
+    },
+    {
+      "name": "logo-maker",
+      "source": "./logo-maker",
+      "description": "Design logo concepts from a brand brief in an interactive panel, then render up to four PNG concepts in your ManyMotions account.",
+      "category": "media",
+      "keywords": ["logo", "logo-design", "branding", "design", "mcp"],
+      "homepage": "https://manymotions.com/mcp#logo-maker",
+      "license": "MIT"
+    },
+    {
+      "name": "clipwave-video-image-maker",
+      "source": "./video-image-maker",
+      "description": "Create AI images and videos from a text prompt: review model, ratio, resolution and duration in a panel, then render in your ManyMotions account.",
+      "category": "media",
+      "keywords": ["video-generation", "image-generation", "ai-video", "text-to-video", "text-to-image", "mcp"],
+      "homepage": "https://manymotions.com/mcp#video-image-maker",
+      "license": "MIT"
+    },
+    {
+      "name": "ugc-video-ads",
+      "source": "./ugc-video-ads",
+      "description": "Turn a product brief into a short UGC-style video ad with an AI presenter and voice, produced in your ManyMotions account and returned as an MP4.",
+      "category": "media",
+      "keywords": ["video-ads", "ugc", "marketing", "ai-video", "tiktok", "mcp"],
+      "homepage": "https://manymotions.com/mcp#ugc-video-ads",
+      "license": "MIT"
     }
   ]
 }

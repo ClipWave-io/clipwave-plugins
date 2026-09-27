@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "video-image-maker": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/mcp"
+    }
+  }
+}
