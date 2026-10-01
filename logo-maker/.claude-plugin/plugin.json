@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "logo-maker",
   "displayName": "AI Logo Maker & Brand Designer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI logo generator and brand designer: describe your brand and get up to four logo concepts (PNG) in an interactive panel, then refine them in your ManyMotions account.",
   "author": {
     "name": "ManyMotions",

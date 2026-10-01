@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "ugc-video-ads",
   "displayName": "AI UGC Video Ads Maker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI UGC video ad maker: turn a product brief into a short UGC-style video ad for TikTok, Reels and Shorts with an AI presenter and voice, delivered as an MP4 from your ManyMotions account.",
   "author": {
     "name": "ManyMotions",
