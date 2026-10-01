@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin.json",
   "name": "clipwave-video-image-maker",
   "displayName": "AI Video & Image Generator by Clipwave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AI video generator and AI image generator: turn a text prompt into images and videos (text to image, text to video), choose model, ratio, resolution and duration in a panel, and render in your ManyMotions account.",
   "author": {
     "name": "ManyMotions",
