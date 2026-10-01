@@ -1,4 +1,4 @@
-# Logo Maker AI & Designer
+# AI Logo Maker & Brand Designer
 
 Design logo concepts from a brand brief in an interactive panel, then render up to four PNG concepts in your ManyMotions account.
 

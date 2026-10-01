@@ -1,4 +1,4 @@
-# Clipwave Video & Image Maker
+# AI Video & Image Generator by Clipwave
 
 Create AI images and videos from a text prompt: review model, ratio, resolution and duration in a panel, then render in your ManyMotions account.
 

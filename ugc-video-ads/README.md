@@ -1,4 +1,4 @@
-# UGC Video Ads Maker AI
+# AI UGC Video Ads Maker
 
 Turn a product brief into a short UGC-style video ad with an AI presenter and voice, produced in your ManyMotions account and returned as an MP4.
 

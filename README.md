@@ -24,9 +24,9 @@ in Claude:
 
 | Plugin | What it does | Install |
 |---|---|---|
-| [Logo Maker AI & Designer](logo-maker) | Logo concepts from a brand brief | `/plugin install logo-maker@clipwave` |
-| [Clipwave Video & Image Maker](video-image-maker) | AI images and videos from a text prompt | `/plugin install clipwave-video-image-maker@clipwave` |
-| [UGC Video Ads Maker AI](ugc-video-ads) | Short UGC-style video ads from a product brief | `/plugin install ugc-video-ads@clipwave` |
+| [AI Logo Maker & Brand Designer](logo-maker) | Logo concepts from a brand brief | `/plugin install logo-maker@clipwave` |
+| [AI Video & Image Generator by Clipwave](video-image-maker) | AI images and videos from a text prompt | `/plugin install clipwave-video-image-maker@clipwave` |
+| [AI UGC Video Ads Maker](ugc-video-ads) | Short UGC-style video ads from a product brief | `/plugin install ugc-video-ads@clipwave` |
 
 ## What you get
 
