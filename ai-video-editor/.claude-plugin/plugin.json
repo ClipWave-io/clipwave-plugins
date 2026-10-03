@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ai-video-editor",
+  "displayName": "AI Video Editor & Timeline by ManyMotions",
+  "version": "1.0.0",
+  "description": "AI video editor: generate shots and images, then cut them on a real multi-track timeline with trims, transitions and burned-in captions, and export an MP4, all driven by Claude in your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ai-video-editor",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "video-editor",
+    "ai-video-editor",
+    "video-editing",
+    "timeline",
+    "captions",
+    "subtitles",
+    "transitions",
+    "export-mp4",
+    "ai-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp"
+}

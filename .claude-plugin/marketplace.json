@@ -90,6 +90,51 @@
       "keywords": ["travel", "travel-video", "travel-guide", "documentary", "travel-vlog", "destination", "tourism", "storytelling", "ai-video", "text-to-video", "mcp"],
       "homepage": "https://manymotions.com/mcp#travel-video",
       "license": "MIT"
+    },
+    {
+      "name": "birthday-video",
+      "source": "./birthday-video",
+      "description": "Birthday video maker: turn the memories you describe into a personal birthday, anniversary or milestone tribute video with voice-over and a closing wish spoken to camera, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["birthday", "birthday-video", "birthday-wishes", "tribute-video", "anniversary", "happy-birthday", "greeting-video", "family", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#birthday-video",
+      "license": "MIT"
+    },
+    {
+      "name": "short-film-maker",
+      "source": "./short-film-maker",
+      "description": "Short film maker: turn a logline into a narrative AI short film with characters, dialogue and a film look across several scenes, in drama, sci-fi, thriller, romance, mystery or fantasy, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["short-film", "ai-film", "filmmaking", "storytelling", "screenplay", "sci-fi", "drama", "cinematic", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#short-film-maker",
+      "license": "MIT"
+    },
+    {
+      "name": "comedy-skit-video",
+      "source": "./comedy-skit-video",
+      "description": "Comedy skit video maker: turn a premise into a short AI comedy skit with original characters, deadpan, absurd, parody, observational or slapstick, built to land one joke for TikTok, Reels and Shorts, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["comedy", "comedy-skit", "funny-video", "skit", "parody", "meme", "tiktok", "reels", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#comedy-skit-video",
+      "license": "MIT"
+    },
+    {
+      "name": "fitness-video",
+      "source": "./fitness-video",
+      "description": "Fitness video maker: turn an exercise, routine or training goal into a workout short with an AI athlete training in a gym, outdoors or at home and a short narration, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["fitness", "fitness-video", "workout", "workout-video", "gym", "training", "exercise", "personal-trainer", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#fitness-video",
+      "license": "MIT"
+    },
+    {
+      "name": "ai-video-editor",
+      "source": "./ai-video-editor",
+      "description": "AI video editor: generate shots and images, then cut them on a real multi-track timeline with trims, transitions and burned-in captions, and export an MP4, all driven by Claude in your ManyMotions account.",
+      "category": "media",
+      "keywords": ["video-editor", "ai-video-editor", "video-editing", "timeline", "captions", "subtitles", "transitions", "export-mp4", "ai-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#ai-video-editor",
+      "license": "MIT"
     }
   ]
 }

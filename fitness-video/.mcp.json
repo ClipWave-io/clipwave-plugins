@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fitness-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/fitness-video/mcp"
+    }
+  }
+}

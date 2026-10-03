@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "birthday-video",
+  "displayName": "Birthday Video Maker: AI Birthday Tribute & Wishes Video",
+  "version": "1.0.0",
+  "description": "Birthday video maker: turn the memories you describe into a personal birthday, anniversary or milestone tribute video with voice-over and a closing wish spoken to camera, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#birthday-video",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "birthday",
+    "birthday-video",
+    "birthday-wishes",
+    "tribute-video",
+    "anniversary",
+    "happy-birthday",
+    "greeting-video",
+    "family",
+    "ai-video",
+    "text-to-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#birthday-video"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "birthday-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/birthday-video/mcp"
+    }
+  }
+}
