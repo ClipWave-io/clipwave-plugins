@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cinematic-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/cinematic-video/mcp"
+    }
+  }
+}

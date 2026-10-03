@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anime-story-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/anime-story-video/mcp"
+    }
+  }
+}

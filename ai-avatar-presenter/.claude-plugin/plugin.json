@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ai-avatar-presenter",
+  "displayName": "AI Avatar Presenter & Explainer Video Maker",
+  "version": "1.0.0",
+  "description": "AI avatar presenter video maker: turn a topic into an explainer, lesson or self-introduction spoken to camera by an AI presenter with an AI voice, scripted scene by scene and delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ai-avatar-presenter",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ai-avatar",
+    "avatar-video",
+    "ai-presenter",
+    "talking-avatar",
+    "explainer-video",
+    "educational-video",
+    "lesson",
+    "training-video",
+    "ai-voice",
+    "text-to-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#ai-avatar-presenter"
+}

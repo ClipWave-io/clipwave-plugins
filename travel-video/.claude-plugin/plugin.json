@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "travel-video",
+  "displayName": "Travel Video & Documentary Maker",
+  "version": "1.0.0",
+  "description": "Travel video maker: turn a destination or a journey into a narrated travel guide, journey diary or short documentary with generated scenes of the place, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#travel-video",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "travel-video",
+    "travel-guide",
+    "documentary",
+    "travel-vlog",
+    "destination",
+    "tourism",
+    "storytelling",
+    "ai-video",
+    "text-to-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#travel-video"
+}

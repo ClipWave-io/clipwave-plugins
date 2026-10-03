@@ -45,6 +45,51 @@
       "keywords": ["ugc", "ugc-ads", "video-ads", "ai-video-ads", "ad-generator", "ai-ugc", "marketing", "ai-video", "tiktok-ads", "reels", "mcp"],
       "homepage": "https://manymotions.com/mcp#ugc-video-ads",
       "license": "MIT"
+    },
+    {
+      "name": "cinematic-video",
+      "source": "./cinematic-video",
+      "description": "Cinematic AI video maker: describe a scene, pick one of 61 named camera moves (dolly, crane, orbit, crash zoom, dolly zoom, FPV drone, bullet time) plus shot, lighting and look, and render a cinematic text-to-video shot with Veo, Kling, Seedance or Wan in your ManyMotions account.",
+      "category": "media",
+      "keywords": ["cinematic", "cinematic-video", "camera-moves", "camera-motion", "ai-video", "text-to-video", "video-generator", "filmmaking", "b-roll", "veo", "kling", "mcp"],
+      "homepage": "https://manymotions.com/mcp#cinematic-video",
+      "license": "MIT"
+    },
+    {
+      "name": "ai-avatar-presenter",
+      "source": "./ai-avatar-presenter",
+      "description": "AI avatar presenter video maker: turn a topic into an explainer, lesson or self-introduction spoken to camera by an AI presenter with an AI voice, scripted scene by scene and delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["ai-avatar", "avatar-video", "ai-presenter", "talking-avatar", "explainer-video", "educational-video", "lesson", "training-video", "ai-voice", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#ai-avatar-presenter",
+      "license": "MIT"
+    },
+    {
+      "name": "anime-story-video",
+      "source": "./anime-story-video",
+      "description": "Anime story video maker: turn a story idea into an animated short in anime, cel, chibi, cartoon, storybook or 3D style, with recurring characters, dialogue and narration, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["anime", "anime-video", "anime-generator", "cartoon", "animation", "animated-story", "ai-animation", "storytelling", "short-film", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#anime-story-video",
+      "license": "MIT"
+    },
+    {
+      "name": "horror-story-video",
+      "source": "./horror-story-video",
+      "description": "Horror story video maker: turn a scary story idea into a narrated horror, paranormal, creepypasta or suspense short for faceless YouTube, TikTok and Shorts channels, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["horror", "horror-story", "scary-story", "creepypasta", "faceless-channel", "youtube-shorts", "tiktok", "storytelling", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#horror-story-video",
+      "license": "MIT"
+    },
+    {
+      "name": "travel-video",
+      "source": "./travel-video",
+      "description": "Travel video maker: turn a destination or a journey into a narrated travel guide, journey diary or short documentary with generated scenes of the place, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["travel", "travel-video", "travel-guide", "documentary", "travel-vlog", "destination", "tourism", "storytelling", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#travel-video",
+      "license": "MIT"
     }
   ]
 }

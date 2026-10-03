@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "anime-story-video",
+  "displayName": "Anime Story Video Maker: AI Cartoon & Animated Shorts",
+  "version": "1.0.0",
+  "description": "Anime story video maker: turn a story idea into an animated short in anime, cel, chibi, cartoon, storybook or 3D style, with recurring characters, dialogue and narration, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#anime-story-video",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "anime",
+    "anime-video",
+    "anime-generator",
+    "cartoon",
+    "animation",
+    "animated-story",
+    "ai-animation",
+    "storytelling",
+    "short-film",
+    "text-to-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#anime-story-video"
+}
