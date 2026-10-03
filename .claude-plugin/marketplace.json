@@ -135,6 +135,15 @@
       "keywords": ["video-editor", "ai-video-editor", "video-editing", "timeline", "captions", "subtitles", "transitions", "export-mp4", "ai-video", "mcp"],
       "homepage": "https://manymotions.com/mcp#ai-video-editor",
       "license": "MIT"
+    },
+    {
+      "name": "church-event-video",
+      "source": "./church-event-video",
+      "description": "Church and faith event video maker: turn the details of a service, holiday celebration, conference, retreat or community gathering into a warm invitation video with a welcome spoken to camera, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["church", "church-video", "faith", "event-invitation", "worship", "community-event", "christmas", "easter", "invitation-video", "ai-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#church-event-video",
+      "license": "MIT"
     }
   ]
 }

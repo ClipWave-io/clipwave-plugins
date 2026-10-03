@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "church-event-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/church-event-video/mcp"
+    }
+  }
+}
