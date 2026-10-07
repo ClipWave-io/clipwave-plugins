@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "pitch-deck-generator",
+  "displayName": "Pitch Deck Visual Generator",
+  "version": "1.0.0",
+  "description": "Pitch deck visual generator: turn your startup's description, problem, market and business model into six slide visuals (problem, solution, market, product, business model, the ask) designed as one deck, as images from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#pitch-deck-generator",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "pitch-deck",
+    "pitch-deck-generator",
+    "startup",
+    "investor-deck",
+    "slides",
+    "presentation",
+    "fundraising",
+    "slide-design",
+    "ai-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#pitch-deck-generator"
+}

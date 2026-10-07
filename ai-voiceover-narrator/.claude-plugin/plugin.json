@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "ai-voiceover-narrator",
+  "displayName": "AI Voiceover & Text to Speech Narrator",
+  "version": "1.0.0",
+  "description": "AI voiceover and text to speech: turn your own script, article, lesson or story into a narrated MP3, paced for listening in the delivery style you describe and read by a stock AI voice, from your ManyMotions account. No voice cloning.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#ai-voiceover-narrator",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "voiceover",
+    "text-to-speech",
+    "tts",
+    "ai-voice",
+    "narration",
+    "narrator",
+    "voice-over",
+    "audio",
+    "speech",
+    "podcast-script",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#ai-voiceover-narrator"
+}

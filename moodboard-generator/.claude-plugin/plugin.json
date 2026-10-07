@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "moodboard-generator",
+  "displayName": "AI Moodboard Generator",
+  "version": "1.0.0",
+  "description": "AI moodboard generator: turn a creative brief for a brand, interior, fashion line, event or project into five distinct visual directions, each rendered by two image models, as square images from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#moodboard-generator",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "moodboard",
+    "mood-board",
+    "moodboard-generator",
+    "inspiration-board",
+    "brand-direction",
+    "interior-design",
+    "aesthetic",
+    "creative-brief",
+    "ai-image",
+    "text-to-image",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#moodboard-generator"
+}

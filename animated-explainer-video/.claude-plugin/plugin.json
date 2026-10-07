@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "animated-explainer-video",
+  "displayName": "Animated Explainer Video Maker: Motion Graphics, No Presenter",
+  "version": "1.0.0",
+  "description": "Animated explainer video maker: turn a topic into an explainer of about 30 seconds with four illustrated, animated scenes and a voiceover, no presenter on camera, delivered as an MP4 from your ManyMotions account.",
+  "author": {
+    "name": "ManyMotions",
+    "url": "https://manymotions.com"
+  },
+  "homepage": "https://manymotions.com/mcp#animated-explainer-video",
+  "repository": "https://github.com/ClipWave-io/clipwave-plugins",
+  "license": "MIT",
+  "keywords": [
+    "explainer-video",
+    "animated-explainer",
+    "motion-graphics",
+    "explainer",
+    "animation",
+    "educational-video",
+    "product-explainer",
+    "voiceover",
+    "ai-video",
+    "text-to-video",
+    "mcp"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://manymotions.com/privacy",
+  "termsOfServiceUrl": "https://manymotions.com/terms",
+  "supportUrl": "https://manymotions.com/support",
+  "documentationUrl": "https://manymotions.com/mcp#animated-explainer-video"
+}

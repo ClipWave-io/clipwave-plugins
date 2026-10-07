@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-voiceover-narrator": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/ai-voiceover-narrator/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "animated-explainer-video": {
+      "type": "http",
+      "url": "https://manymotions.com/api/claude/animated-explainer-video/mcp"
+    }
+  }
+}

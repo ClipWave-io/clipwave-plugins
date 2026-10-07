@@ -144,6 +144,42 @@
       "keywords": ["church", "church-video", "faith", "event-invitation", "worship", "community-event", "christmas", "easter", "invitation-video", "ai-video", "mcp"],
       "homepage": "https://manymotions.com/mcp#church-event-video",
       "license": "MIT"
+    },
+    {
+      "name": "ai-voiceover-narrator",
+      "source": "./ai-voiceover-narrator",
+      "description": "AI voiceover and text to speech: turn your own script, article, lesson or story into a narrated MP3, paced for listening in the delivery style you describe and read by a stock AI voice, from your ManyMotions account. No voice cloning.",
+      "category": "media",
+      "keywords": ["voiceover", "text-to-speech", "tts", "ai-voice", "narration", "narrator", "voice-over", "audio", "speech", "podcast-script", "mcp"],
+      "homepage": "https://manymotions.com/mcp#ai-voiceover-narrator",
+      "license": "MIT"
+    },
+    {
+      "name": "moodboard-generator",
+      "source": "./moodboard-generator",
+      "description": "AI moodboard generator: turn a creative brief for a brand, interior, fashion line, event or project into five distinct visual directions, each rendered by two image models, as square images from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["moodboard", "mood-board", "moodboard-generator", "inspiration-board", "brand-direction", "interior-design", "aesthetic", "creative-brief", "ai-image", "text-to-image", "mcp"],
+      "homepage": "https://manymotions.com/mcp#moodboard-generator",
+      "license": "MIT"
+    },
+    {
+      "name": "animated-explainer-video",
+      "source": "./animated-explainer-video",
+      "description": "Animated explainer video maker: turn a topic into an explainer of about 30 seconds with four illustrated, animated scenes and a voiceover, no presenter on camera, delivered as an MP4 from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["explainer-video", "animated-explainer", "motion-graphics", "explainer", "animation", "educational-video", "product-explainer", "voiceover", "ai-video", "text-to-video", "mcp"],
+      "homepage": "https://manymotions.com/mcp#animated-explainer-video",
+      "license": "MIT"
+    },
+    {
+      "name": "pitch-deck-generator",
+      "source": "./pitch-deck-generator",
+      "description": "Pitch deck visual generator: turn your startup's description, problem, market and business model into six slide visuals (problem, solution, market, product, business model, the ask) designed as one deck, as images from your ManyMotions account.",
+      "category": "media",
+      "keywords": ["pitch-deck", "pitch-deck-generator", "startup", "investor-deck", "slides", "presentation", "fundraising", "slide-design", "ai-image", "mcp"],
+      "homepage": "https://manymotions.com/mcp#pitch-deck-generator",
+      "license": "MIT"
     }
   ]
 }
