@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "pitch-deck-generator": {
-      "type": "http",
-      "url": "https://manymotions.com/api/claude/pitch-deck-generator/mcp"
-    }
-  }
-}
